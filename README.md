@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I’m Denis ([he/him](https://denisdefreyne.com/notes/my-pronouns/)), and software development is one of my many skills. My areas of expertise include backend development (mostly Ruby/Rails), frontend (mostly React/TypeScript), CLI tools, and a variety of other things.
+I’m Denis ([he/him](https://denisdefreyne.com/notes/my-pronouns/)), and software development is one of my primary skills. My areas of expertise include backend development (mostly Ruby/Rails), frontend (mostly React/TypeScript), CLI tools, and a variety of other things.
 
 I have made a handful of open-source software, most notably [Nanoc](https://nanoc.app/), which I still use frequently, over 18 years since its first release.
 
-Check out [my weeknotes](https://denisdefreyne.com/weeknotes/), which I publish every Sunday, on a variety of topics (software development included).
+Check out [my web site](https://denisdefreyne.com/) and in particular [my weeknotes](https://denisdefreyne.com/weeknotes/), which I publish every Sunday, on a variety of topics (software development included).
 
-[Leave me a message](https://denisdefreyne.com/contact/)!
+Do [leave me a message](https://denisdefreyne.com/contact/)!
 
 <!--
 **denisdefreyne/denisdefreyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
