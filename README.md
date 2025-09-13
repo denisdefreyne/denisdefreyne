@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hello!
 
-I’m Denis. I have made a handful of open-source software, most notably [Nanoc](https://nanoc.app/), which I still use frequently, over 18 years since its first release.
+I’m Denis (he/him). I am a software engineer first and foremost, but also a writer of fiction and non-fiction, a game developer, and a public speaker.
 
 Check out [my web site](https://denisdefreyne.com/) and in particular [my weeknotes](https://denisdefreyne.com/weeknotes/), which I publish every Sunday, on a variety of topics (software development included).
 
